@@ -1,0 +1,17 @@
+D:\programming\szypul\algaGenetyczna\algaGenetyczna\bin\Debug\netcoreapp3.0\algaGenetyczna.exe
+D:\programming\szypul\algaGenetyczna\algaGenetyczna\bin\Debug\netcoreapp3.0\algaGenetyczna.deps.json
+D:\programming\szypul\algaGenetyczna\algaGenetyczna\bin\Debug\netcoreapp3.0\algaGenetyczna.runtimeconfig.json
+D:\programming\szypul\algaGenetyczna\algaGenetyczna\bin\Debug\netcoreapp3.0\algaGenetyczna.runtimeconfig.dev.json
+D:\programming\szypul\algaGenetyczna\algaGenetyczna\bin\Debug\netcoreapp3.0\algaGenetyczna.dll
+D:\programming\szypul\algaGenetyczna\algaGenetyczna\bin\Debug\netcoreapp3.0\algaGenetyczna.pdb
+D:\programming\szypul\algaGenetyczna\algaGenetyczna\obj\Debug\netcoreapp3.0\algaGenetyczna.csprojAssemblyReference.cache
+D:\programming\szypul\algaGenetyczna\algaGenetyczna\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+D:\programming\szypul\algaGenetyczna\algaGenetyczna\obj\Debug\netcoreapp3.0\App.g.cs
+D:\programming\szypul\algaGenetyczna\algaGenetyczna\obj\Debug\netcoreapp3.0\algaGenetyczna_MarkupCompile.cache
+D:\programming\szypul\algaGenetyczna\algaGenetyczna\obj\Debug\netcoreapp3.0\algaGenetyczna_MarkupCompile.lref
+D:\programming\szypul\algaGenetyczna\algaGenetyczna\obj\Debug\netcoreapp3.0\MainWindow.baml
+D:\programming\szypul\algaGenetyczna\algaGenetyczna\obj\Debug\netcoreapp3.0\algaGenetyczna.g.resources
+D:\programming\szypul\algaGenetyczna\algaGenetyczna\obj\Debug\netcoreapp3.0\algaGenetyczna.AssemblyInfoInputs.cache
+D:\programming\szypul\algaGenetyczna\algaGenetyczna\obj\Debug\netcoreapp3.0\algaGenetyczna.AssemblyInfo.cs
+D:\programming\szypul\algaGenetyczna\algaGenetyczna\obj\Debug\netcoreapp3.0\algaGenetyczna.dll
+D:\programming\szypul\algaGenetyczna\algaGenetyczna\obj\Debug\netcoreapp3.0\algaGenetyczna.pdb
